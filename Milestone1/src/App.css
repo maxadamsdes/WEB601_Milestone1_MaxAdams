@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.program,
+.program1,
+.program2,
+.program3,
+.program4,
+.program5,
+.events,
+.about,
+.login{
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.home {
+  background-image: url('./images/img-1.jpg');
+}
+
+.program {
+  background-image: url('./images/img-2.jpg');
+}
+
+.events {
+  background-image: url('./images/img-3.jpg');
+}
+
+.about {
+  background-image: url('./images/img-4.jpg');
+}
+
+.login {
+  background-image: url('./images/img-7.jpg');
+}
+
+.program1 {
+  background-image: url('./images/img-6.jpg');
+}
+
+.program2 {
+  background-image: url('./images/img-5.jpg');
+}
+
+.program3 {
+  background-image: url('./images/img-6.jpg');
+}
+
+.program4 {
+  background-image: url('./images/img-5.jpg');
+}
+
+.program5 {
+  background-image: url('./images/img-6.jpg');
+}
