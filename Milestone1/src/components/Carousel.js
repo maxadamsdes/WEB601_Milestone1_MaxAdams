@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import PropTypes from 'prop-types';
 
 function Carousel() {
     const [index, setIndex] = useState(0);

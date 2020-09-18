@@ -1,3 +1,5 @@
+import React from 'react';
+
 // Sets data for the navbar
 export const MenuItems = [
     // First navbar item
